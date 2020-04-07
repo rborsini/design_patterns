@@ -1,16 +1,25 @@
-﻿<Properties StartupConfiguration="{4DCE7D09-C9BA-4826-A7FD-F14968E27F68}|Default">
+﻿<Properties StartupConfiguration="{B5E9F300-4A6C-4577-A201-C406D9B2574C}|Default">
   <MonoDevelop.Ide.ItemProperties.CreationPatterns.AbstractFactory FirstBuild="True" />
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="FactoryMethod/Builder/Program.cs" Line="32" Column="14" />
+      <File FileName="FactoryMethod/Builder/IBuilder.cs" Line="13" Column="6" />
+      <File FileName="FactoryMethod/Builder/ConcreteBuilder.cs" Line="60" Column="6" />
+      <File FileName="FactoryMethod/Builder/Product.cs" Line="18" Column="35" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="CreationPatterns" expanded="True" />
+            <Node name="CreationPatterns" expanded="True">
+              <Node name="Builder" expanded="True" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CreationPatterns.Builder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

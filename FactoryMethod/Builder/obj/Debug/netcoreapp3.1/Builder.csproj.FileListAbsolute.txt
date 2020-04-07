@@ -1,0 +1,10 @@
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfoInputs.cache
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfo.cs
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder.deps.json
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.json
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.dev.json
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder.dll
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/bin/Debug/netcoreapp3.1/Builder.pdb
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/obj/Debug/netcoreapp3.1/Builder.dll
+/Users/rob/Projects/design_patterns/FactoryMethod/Builder/obj/Debug/netcoreapp3.1/Builder.pdb
