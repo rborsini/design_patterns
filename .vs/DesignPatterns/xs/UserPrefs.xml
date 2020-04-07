@@ -1,24 +1,11 @@
 ﻿<Properties StartupConfiguration="{4DCE7D09-C9BA-4826-A7FD-F14968E27F68}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/Client.cs">
-    <Files>
-      <File FileName="FactoryMethod/Program.cs" Line="6" Column="64" />
-      <File FileName="FactoryMethod/Creator.cs" Line="29" Column="6" />
-      <File FileName="FactoryMethod/ConcreteCreator1.cs" Line="16" Column="6" />
-      <File FileName="FactoryMethod/ConcreteCreator2.cs" Line="10" Column="6" />
-      <File FileName="FactoryMethod/IProduct.cs" Line="9" Column="6" />
-      <File FileName="FactoryMethod/ConcreteProduct1.cs" Line="12" Column="6" />
-      <File FileName="FactoryMethod/ConcreteProduct2.cs" Line="10" Column="6" />
-      <File FileName="FactoryMethod/Client.cs" Line="28" Column="6" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.CreationPatterns.AbstractFactory FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="CreationPatterns" expanded="True">
-              <Node name="FactoryMethod" expanded="True">
-                <Node name="Client.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="CreationPatterns" expanded="True" />
           </Node>
         </State>
       </Pad>
