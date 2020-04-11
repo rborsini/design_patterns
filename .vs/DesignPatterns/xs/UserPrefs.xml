@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{B5E9F300-4A6C-4577-A201-C406D9B2574C}|Default">
-  <MonoDevelop.Ide.ItemProperties.CreationPatterns.AbstractFactory FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{DB820AE7-F922-4F5F-B8C9-E0D9F369CDFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.CreationPatterns.AbstractFactory FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Structural/Proxy/Client.cs">
     <Files>
-      <File FileName="FactoryMethod/Builder/Program.cs" Line="32" Column="14" />
-      <File FileName="FactoryMethod/Builder/IBuilder.cs" Line="13" Column="6" />
-      <File FileName="FactoryMethod/Builder/ConcreteBuilder.cs" Line="60" Column="6" />
-      <File FileName="FactoryMethod/Builder/Product.cs" Line="18" Column="35" />
+      <File FileName="Structural/Proxy/Program.cs" Line="9" Column="1" />
+      <File FileName="Structural/Proxy/ISubject.cs" Line="10" Column="6" />
+      <File FileName="Structural/Proxy/RealSubject.cs" Line="14" Column="6" />
+      <File FileName="Structural/Proxy/Proxy.cs" Line="42" Column="1" />
+      <File FileName="Structural/Proxy/Client.cs" Line="19" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
-            <Node name="CreationPatterns" expanded="True">
-              <Node name="Builder" expanded="True" selected="True" />
+            <Node name="StructuraPatterns" expanded="True">
+              <Node name="Proxy" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,6 +21,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CreationPatterns.Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StructuraPatterns.Proxy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
